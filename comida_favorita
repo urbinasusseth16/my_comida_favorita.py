@@ -1,0 +1,12 @@
+comidas favoritas = [Hamburguer = Hamburguesa." 
+	"Tacos Mexicano."
+	"Pancakes."
+	"Peperoni Pizza = pizza de peperoni."
+	"Alitas."
+	
+	def imprimir menu()
+	print("escoge tus 5 comidas favoritas :")
+	for comida in comidas
+			print(comidas)
+
+imprimir_menu()
